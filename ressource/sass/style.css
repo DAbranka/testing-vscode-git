@@ -43,4 +43,72 @@ td, th {
   padding: 0;
 }
 
+body {
+  background-color: #333;
+  width: 100%;
+  height: 100vh;
+}
+
+header {
+  background: url(https://unsplash.it/1920/);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12vw;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-transform: uppercase;
+}
+
+.second {
+  background: url(https://unsplash.it/1920/);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12vw;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-transform: uppercase;
+}
+
+.third {
+  background-color: rgb(37, 44, 246);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12vw;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-transform: uppercase;
+}
+
+.fourth {
+  background-color: rgb(246, 211, 37);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12vw;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-transform: uppercase;
+}
+
 /*# sourceMappingURL=style.css.map */
